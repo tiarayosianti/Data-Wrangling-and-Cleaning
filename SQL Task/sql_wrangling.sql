@@ -23,7 +23,8 @@ home as (
 	from rumah
 ), 
 home2 as ( 
--- CLEANING   select distinct --remove duplicate
+-- CLEANING
+   select distinct --remove duplicate
 		link_href,
 		listing_location,
 		bed,
