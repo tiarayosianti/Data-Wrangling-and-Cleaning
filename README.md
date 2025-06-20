@@ -9,12 +9,12 @@ This project focuses on data wrangling and cleaning of housing price data from S
 ## 📊 Data Description
 
 The dataset includes information such as:
-- Link reference
+- Link reference (`house sale link`)
 - Price (`harga`)
 - Location (`lokasi`)
-- Number of bedrooms and bathrooms (`jumlah_kamar`, `kamar_mandi`)
-- Price per square meter
-- House in square meter
+- Number of bedrooms and bathrooms (`jumlah kamar`, `kamar mandi`)
+- Price per square meter (`harga tanah per meter persegi`)
+- House in square meter (`luas rumah dalam meter persegi`)
 
 
 ## 🛠️ Tools Used
